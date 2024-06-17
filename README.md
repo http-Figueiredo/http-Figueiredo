@@ -5,3 +5,5 @@
 - 📫 How to reach me? Call me baby -> +55 65 99646-2461; or email me -> http.figueiredo@gmail.com 
 - 😄 Pronouns: he/him (I dont really care what you call me, everyone calls my name wrongly)
 - ⚡ Fun fact: I love knowing (almost) everything, so if you got a information that I don't know about, tell me please!!! Learning new thing is also something I love... And gaming.
+
+Learning MARKDOWN to make a pretier README LOL
