@@ -8,4 +8,3 @@
 
 Learning MARKDOWN to make a pretier README LOL
 
-<img src="https://www.google.com/imgresq=chines%20dando%20joia%20emoji&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F82%2F81%2F66%2F82816632b33390ef95debd594b8706ec.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F844143523890693063%2F&docid=xmzy4AYqNMAHZM&tbnid=nCfQpbjPxXUwOM&vet=12ahUKEwjUk_Xb5-WGAxU_qJUCHc5lBKwQM3oECBUQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjUk_Xb5-WGAxU_qJUCHc5lBKwQM3oECBUQAA">
