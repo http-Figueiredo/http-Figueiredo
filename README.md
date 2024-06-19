@@ -1,12 +1,12 @@
 # Hi, my name is Lorenzo G. Figueiredo.
 *Olá, me chamo Lorenzo G. Figueiredo.*
 
-I'm 20 years old, and I'm just a brazillian computer science student starting to learn how to code.
+I'm 20 years old, and I'm just a brazillian computer science student starting to learn how to code.  
 `Tenho 20 anos, e sou apenas um estudante brasileiro de Ciências da Computação que começou a aprender a como programar.`
 
 ## Professional experience | Experiência Profissional:
 
-1. Trainee in **MTI - Empresa Mato-grossense de Tecnologia da Informação** | 03/2022 - *Current Job* | I've worked with application monitoring/management, using softwares like ZABBIX and F5 (AFM and LTM).
+1. Trainee in **MTI - Empresa Mato-grossense de Tecnologia da Informação** | 03/2022 - *Current Job* | I've worked with application monitoring/management, using softwares like ZABBIX and F5 (AFM and LTM).  
 `Estagiário na **MTI - Empresa Mato-grossense de Tecnologia da Informação | 03/2022 - Emprego Atual | Trabalhei com monitoramento e gerenciamento de aplicações, utilizando de softwares como ZABBIX e F5 (AFM e LTM)`
 
 
