@@ -1,14 +1,29 @@
-# About Me
+# Hi, my name is Lorenzo G. Figueiredo.
+Olá, me chamo Lorenzo G. Figueiredo.
 
-- My name is Lorenzo Figueiredo 😄 , and I'm a Brazilian programmer.
+I'm 20 years old, and I'm just a brazillian computer science student starting to learn how to code.
+`Tenho 20 anos, e sou apenas um estudante brasileiro de Ciências da Computação que começou a aprender a como programar.`
 
-   
-- 👀 I’m interested in a lot of things... Front-end, back-end, database, internet security...
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT (the basic of front-end, right?) and trying to learn java and python... And I have plans to learn C#, SQL and PHP.
-- 💞️ I’m looking to collaborate on a FUll-STACK JOB, I don't really have a dream job like work at google or apple, you know... But I'll work hard and keep evolving at any place that look for me. 
-- 📫 How to reach me? Call me baby -> +55 65 99646-2461; or email me -> http.figueiredo@gmail.com 
-- 😄 Pronouns: he/him (I dont really care what you call me, everyone calls my name wrongly)
-- ⚡ Fun fact: I love knowing (almost) everything, so if you got a information that I don't know about, tell me please!!! Learning new thing is also something I love... And gaming.
+## Professional experience | Experiência Profissional:
 
-Learning MARKDOWN to make a pretier README LOL
+1. Trainee in **MTI - Empresa Mato-grossense de Tecnologia da Informação** | 03/2022 - *Current Job* | I've worked with application monitoring/management, using softwares like ZABBIX and F5 (AFM and LTM).
+`Estagiário na **MTI - Empresa Mato-grossense de Tecnologia da Informação | 03/2022 - Emprego Atual | Trabalhei com monitoramento e gerenciamento de aplicações, utilizando de softwares como ZABBIX e F5 (AFM e LTM)`
 
+
+### Skills | Habilidades:
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![MARKDOWN](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- Portuguese (fluent). | `Portugês (Fluente).`
+- English (intermediate). | `Inglês (Intermediário).`
+- Passion in Learning new things. | `Apaixonado em aprender coisas novas.`
+- Good communication. | `Boa comunicação`
+- Open to work with any type of code. | `Aberto a trabalhar com qualquer tipo de código.`
+- Team Work. | ` Trabalho em equipe. `
+- Perfectionist. | `Perfeccionista`
+- Task management by priority. | `Organização de tarefas por prioridade`
+
+#### My Social | Redes Sociais:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/http-Figueiredo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzoghisifigueiredo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:http.figueiredo@gmail.com)
