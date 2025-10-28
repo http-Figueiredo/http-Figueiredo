@@ -1,5 +1,5 @@
-# Hi, my name is Lorenzo G. Figueiredo.
-*Olá, me chamo Lorenzo G. Figueiredo.*
+# Hi, my name is Lorenzo Ghisi de Figueiredo.
+*Olá, me chamo Lorenzo Ghisi de Figueiredo.*
 
 I'm 20 years old, and I'm just a brazillian computer science student starting to learn how to code.  
 `Tenho 20 anos, e sou apenas um estudante brasileiro de Ciências da Computação que começou a aprender a como programar.`
