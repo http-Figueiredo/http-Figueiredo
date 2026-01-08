@@ -1,8 +1,8 @@
 # Hi, my name is Lorenzo Ghisi de Figueiredo.
 *Olá, me chamo Lorenzo Ghisi de Figueiredo.*
 
-I'm 20 years old, and I'm just a brazillian computer science student starting to learn how to code.  
-`Tenho 20 anos, e sou apenas um estudante brasileiro de Ciências da Computação que começou a aprender a como programar.`
+I'm 23 years old, I'm a brazillian that just graduated in computer science and is learning how to code.  
+`Tenho 23 anos, sou um brasileiro recem formado em Ciências da Computação e esta aprendendo a programar.`
 
 ## Professional experience | Experiência Profissional:
 
@@ -21,7 +21,6 @@ I'm 20 years old, and I'm just a brazillian computer science student starting to
 - Open to work with any type of code. | `Aberto a trabalhar com qualquer tipo de código.`
 - Team Work. | ` Trabalho em equipe. `
 - Perfectionist. | `Perfeccionista`
-- Task management by priority. | `Organização de tarefas por prioridade`
 
 #### My Social | Redes Sociais:
 
