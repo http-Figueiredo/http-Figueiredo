@@ -1,3 +1,5 @@
+Informações para adicionar ao currículo: Linux (CLI/Bash); Shell Script (Bash): automação de tarefas, manipulação de arquivos e processos;
+
 # Hi, my name is Lorenzo Ghisi de Figueiredo.
 *Olá, me chamo Lorenzo Ghisi de Figueiredo.*
 
